@@ -5,6 +5,8 @@
   "author": "asamoon",
   "license": "MIT",
   "devDependencies": {
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.0.3",
     "vuepress": "^0.10.1"
   },
   "scripts": {
